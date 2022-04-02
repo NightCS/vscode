@@ -7,7 +7,7 @@
 		"focusBorder": "#1C252C",
 		"editor.focusedStackFrameHighlightBackground": "#1C252C",
 		"foreground": "#D9D7D6",
-		"widget.shadow": "#BC83E3",
+		"widget.shadow": "#000102",
 		"selection.background": "#1C252C",
 		"errorForeground": "#DF5B61",
 		"textLink.activeForeground": "#D9D7D6",
@@ -233,7 +233,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#67AFC1"
+				"foreground": "#BC83E3"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#67AFC1"
+				"foreground": "#BC83E3"
 			}
 		},
 		{
