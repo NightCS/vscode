@@ -233,7 +233,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#BC83E3"
+				"foreground": "#6791C9"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#BC83E3"
+				"foreground": "#6791C9"
 			}
 		},
 		{
