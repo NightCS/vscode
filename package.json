@@ -1,0 +1,24 @@
+{
+    "name": "night",
+    "displayName": "Night",
+    "description": "Night theme for vscode, based in the colorscheme showed in rxyhn's dotfiles",
+    "version": "0.0.1",
+    "license": "MIT",
+    "publisher": "alphatechnolog",
+    "repository": "https://github.com/NightCS/vscode",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night-color-theme.json"
+            }
+        ]
+    }
+}
