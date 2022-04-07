@@ -1,7 +1,7 @@
 {
-    "name": "night",
-    "displayName": "Night",
-    "description": "Night theme for vscode, based in the colorscheme showed in rxyhn's dotfiles",
+    "name": "Night",
+    "displayName": "Aesthetic Night (And Beautiful Day)",
+    "description": "A theme that contains the Aesthetic Night and the Beautiful Day theme",
     "version": "0.0.1",
     "license": "MIT",
     "publisher": "alphatechnolog",
@@ -15,9 +15,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Night",
+                "label": "Aesthetic Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Night-color-theme.json"
+            },
+            {
+                "label": "Beautiful Day",
+                "uiTheem": "vs-light",
+                "path": "./themes/Day-color-theme.json"
             }
         ]
     }
